@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Asiakkaiden_Tilaukset.Models.Tuote>
+
+@{
+    ViewData["Title"] = "Ostoskori";
+}
+
+<h1>Ostoskori</h1>
+
+<p>
+    <a asp-action="Haku">Palaa hakuun</a>
+</p>
+<p>
+    <a asp-action="Haku">Tyhjennä ostoskori(ei viel toimi)</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TuoteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nimi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tyyppi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tuoteryhmä)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hinta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TuoteId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nimi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tyyppi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tuoteryhmä)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hinta)
+                </td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

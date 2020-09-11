@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Asiakkaiden_Tilaukset.Models.Tuote>
+
+@{
+    ViewData["Title"] = "Haku";
+}
+
+<h1>Haku</h1>
+@{
+    string id = ViewBag.haku;
+}
+
+<form method="post" action="@Url.Action("HakuKone", "Asiakas", new { id = id })">
+    <div class="form-group">
+        Tuotehaku:<br />
+        <input type="text" name="nimi" />
+        <div class="form-group">
+            <input type="submit" value="Hae" class="btn btn-primary">
+        </div>
+        <div></div>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TuoteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nimi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tyyppi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tuoteryhmä)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hinta)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TuoteId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nimi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tyyppi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tuoteryhmä)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hinta)
+                </td>
+                <td name="nimi" value="nimi">
+                    @Html.ActionLink("Lisää ostoskoriin", "Ostoskori", new { id = item.TuoteId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

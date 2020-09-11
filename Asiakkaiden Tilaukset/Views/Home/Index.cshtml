@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Verkkokauppa Academy</h1>
+        <p>
+            Olen tällä sivulla @ViewBag.Lkm . kertaa.
+        </p>
+        @{
+            string id = ViewBag.haku;
+        }
+
+        <form method="post" action="@Url.Action("HakuKone", "Asiakas", new { id = id })">
+            <div class="form-group">
+                Tuotehaku:<br />
+                <input type="text" name="nimi" />
+                <div class="form-group">
+                    <input type="submit" value="Hae" class="btn btn-primary">
+                </div>
+                <div></div>
+            </div>
+        </form>
+        @Html.ActionLink("Asiakkaiden A tilauslukumäärät", "AsiakasA", "Asiakas") <br />
+        @Html.ActionLink("Asiakkaiden T tilauslukumäärät", "AsiakasA", "Asiakas", new { id = "T" }) <br />
+        <a href="/Asiakas/AsiakasA/T">Asiakkaiden T tilauslukumäärät HTML:nä</a>
+   
+
+    </div>

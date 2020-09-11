@@ -1,0 +1,132 @@
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.exe
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.csprojAssemblyReference.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\staticwebassets\Asiakkaiden Tilaukset.StaticWebAssets.Manifest.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\staticwebassets\Asiakkaiden Tilaukset.StaticWebAssets.xml
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.RazorAssemblyInfo.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.RazorAssemblyInfo.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.AssemblyInfoInputs.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.AssemblyInfo.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.TagHelpers.input.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.TagHelpers.output.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.RazorCoreGenerate.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.RazorTargetAssemblyInfo.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.RazorTargetAssemblyInfo.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.csproj.CopyComplete
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.deps.json
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.runtimeconfig.json
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.runtimeconfig.dev.json
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.pdb
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.Views.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.Views.pdb
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.Views.pdb
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.pdb
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Asiakas\AsiakasA.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Asiakkaiden Tilaukset.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Asiakas\Haku.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Asiakas\HakuKone.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\obj\Debug\netcoreapp3.0\Razor\Views\Asiakas\Ostoskori.cshtml.g.cs
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Work\Viikko7\Ma\Asiakkaiden Tilaukset\Asiakkaiden Tilaukset\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
